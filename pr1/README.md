@@ -1,6 +1,6 @@
 # Практична робота №1
 
-## Порівняння `numpy.corrcoef` та `pandas.corr`
+## Варіант 15: Порівняння `numpy.corrcoef` та `pandas.corr`
 
 ## Мета роботи
 
